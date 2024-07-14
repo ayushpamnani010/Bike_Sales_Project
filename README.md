@@ -1,2 +1,2 @@
 # Bike_Sales_Project
-This project gives an overview of the Bike Sales from various parts of the world. it majorly focuses on 3 parts that is Europe, Asia Pacific and North America.
+The Bike_Sales_Project aims to analyze and understand the trends, patterns, and factors influencing bike sales across three major regions: America, Europe, and Asia Pacific. By examining sales data, demographic information, economic indicators, and market trends, this project seeks to provide actionable insights for stakeholders to optimize marketing strategies, improve inventory management, and identify growth opportunities in the bike industry.
